@@ -1,0 +1,148 @@
+{
+  "uuid": "379481208157c0558dd99bd8b73e6dff",
+  "path": "Offline/0003",
+  "name": "0003",
+  "content": "",
+  "created_at": "2020-10-05 04:21:05",
+  "updated_at": "2020-12-26 02:35:05",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "468e69ccb8c041f2c8f7c9099722f53a",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "13fbe66358ac415f8f844f8a7a60755f": 2,
+        "211d7386991f4f8c82becf63dab5e7bc": 5,
+        "a5cb8fc803084158bb825edf2c7447ef": 6
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "12",
+          2,
+          "HDR1X2",
+          "VIN,VIN1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "05ca98c924be4d7f9936cfbc00888d3a",
+            "uuid": "13fbe66358ac415f8f844f8a7a60755f"
+          }
+        ],
+        [
+          "Multimeter",
+          5,
+          "",
+          "A2,V1,A1,A3,A4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "61cabdd4cf294840a57028c68cec183b",
+            "uuid": "211d7386991f4f8c82becf63dab5e7bc"
+          }
+        ],
+        [
+          "460",
+          1,
+          "AXIAL-0.3",
+          "R6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b9efc06d0fb742f99a478d48de211eb9",
+            "uuid": "a5cb8fc803084158bb825edf2c7447ef"
+          }
+        ],
+        [
+          "425",
+          1,
+          "AXIAL-0.3",
+          "R1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b9efc06d0fb742f99a478d48de211eb9",
+            "uuid": "a5cb8fc803084158bb825edf2c7447ef"
+          }
+        ],
+        [
+          "47.1",
+          1,
+          "AXIAL-0.3",
+          "R3",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b9efc06d0fb742f99a478d48de211eb9",
+            "uuid": "a5cb8fc803084158bb825edf2c7447ef"
+          }
+        ],
+        [
+          "0,03",
+          1,
+          "AXIAL-0.3",
+          "R5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b9efc06d0fb742f99a478d48de211eb9",
+            "uuid": "a5cb8fc803084158bb825edf2c7447ef"
+          }
+        ],
+        [
+          "0,005",
+          1,
+          "AXIAL-0.3",
+          "R4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b9efc06d0fb742f99a478d48de211eb9",
+            "uuid": "a5cb8fc803084158bb825edf2c7447ef"
+          }
+        ],
+        [
+          "315",
+          1,
+          "AXIAL-0.3",
+          "R2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b9efc06d0fb742f99a478d48de211eb9",
+            "uuid": "a5cb8fc803084158bb825edf2c7447ef"
+          }
+        ]
+      ],
+      "updateTime": 1608939305,
+      "createTime": 1601943177,
+      "histories": [],
+      "created_at": "2020-10-06 03:12:57",
+      "updated_at": "2020-12-26 02:35:05"
+    }
+  ],
+  "sort": [],
+  "title": "0003",
+  "foldername": "0003",
+  "schfilename": "0003.json",
+  "schfilemtime": 1608939305072
+}

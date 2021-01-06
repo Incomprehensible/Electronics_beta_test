@@ -1,0 +1,96 @@
+{
+  "uuid": "7b7cbdbbafbdda440f89f10d492508d5",
+  "path": "Offline/0002",
+  "name": "0002",
+  "content": "",
+  "created_at": "2020-10-05 01:52:45",
+  "updated_at": "2020-10-05 04:19:18",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "9d53a43aff1c7b37672802c37294d504",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "13fbe66358ac415f8f844f8a7a60755f": 1,
+        "211d7386991f4f8c82becf63dab5e7bc": 3,
+        "a5cb8fc803084158bb825edf2c7447ef": 3
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "12",
+          1,
+          "HDR1X2",
+          "VIN",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "05ca98c924be4d7f9936cfbc00888d3a",
+            "uuid": "13fbe66358ac415f8f844f8a7a60755f"
+          }
+        ],
+        [
+          "Multimeter",
+          3,
+          "",
+          "AMMETER,AMMETER2,VOLTMETER",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "61cabdd4cf294840a57028c68cec183b",
+            "uuid": "211d7386991f4f8c82becf63dab5e7bc"
+          }
+        ],
+        [
+          "350",
+          1,
+          "AXIAL-0.3",
+          "R1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b9efc06d0fb742f99a478d48de211eb9",
+            "uuid": "a5cb8fc803084158bb825edf2c7447ef"
+          }
+        ],
+        [
+          "500",
+          2,
+          "AXIAL-0.3",
+          "R2,PAYLOAD",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b9efc06d0fb742f99a478d48de211eb9",
+            "uuid": "a5cb8fc803084158bb825edf2c7447ef"
+          }
+        ]
+      ],
+      "updateTime": 1601860758,
+      "createTime": 1601851973,
+      "histories": [],
+      "created_at": "2020-10-05 01:52:53",
+      "updated_at": "2020-10-05 04:19:18"
+    }
+  ],
+  "sort": [],
+  "title": "0002",
+  "foldername": "0002",
+  "schfilename": "0002.json",
+  "schfilemtime": 1601860758590
+}
